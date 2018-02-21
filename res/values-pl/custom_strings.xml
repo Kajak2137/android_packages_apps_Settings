@@ -20,13 +20,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen,  setting option name-->
-  <string name="mod_version">Wersja Omni</string>
-  <string name="mod_version_default">Nieznana</string>
+  <string name="mod_version">Wersja UsoroOS</string>
+  <string name="mod_version_default">1.4.8.8</string>
   <!-- Main list strings -->
   <string name="more_settings_title">Więcej</string>
   <string name="interface_bars_title">Paski</string>
   <string name="interface_lockscreen_title">Ekran blokady</string>
-  <string name="omnigears_category_title">OmniGears</string>
+  <string name="omnigears_category_title">UsoroGears</string>
   <string name="omni_device_parts">Funkcje urządzenia</string>
   <string name="header_category_interface">Interfejs</string>
   <string name="performance_settings">Wydajność</string>
